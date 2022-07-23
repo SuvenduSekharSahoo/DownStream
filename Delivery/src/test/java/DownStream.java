@@ -11,7 +11,7 @@ public class DownStream {
 	@Test(groups={"regression"})
 	public void delete()
 	{
-		System.out.println("delete done");
+		System.out.println("delete done ok");
 	}
 
 }
